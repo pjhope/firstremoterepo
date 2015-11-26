@@ -1,2 +1,2 @@
 this is the first git file!
-i changed it for test!
+i changed (add hello for seconde change) it for test!
