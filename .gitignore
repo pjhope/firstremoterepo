@@ -1,0 +1,35 @@
+# IDE
+.idea
+*.iml
+*.ipr
+*.iws
+
+.buildpath
+.project
+.settings
+.pydevproject
+
+# Mac:
+.DS_Store
+.DS_Store?
+._*
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+
+# Python:
+.cpy
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+
+/.gradle/
+*/build/
+
+# Project relative
+application-dev.yml
+
+.idea/*
+application.yml
